@@ -3,6 +3,10 @@
 ## Repo
 [https://github.com/BIGDADDY5802/class-7-gutcheck](https://github.com/BIGDADDY5802/class-7-gutcheck)
 
+## Armageddon Repo
+
+[https://github.com/BIGDADDY5802/armageddon_deliverables](https://github.com/BIGDADDY5802/armageddon_deliverables)
+
 ---
 
 ## Deliverables
