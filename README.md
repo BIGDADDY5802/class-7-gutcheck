@@ -24,7 +24,7 @@
 ---
 
 ### ✅ Theo's Approval
-- Email on file
+- Email on file!
 
 ![theo approval](./screenshots/04-theo-approval.png)
 
