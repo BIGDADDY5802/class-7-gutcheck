@@ -10,23 +10,23 @@
 ### ✅ Working Webhook Trigger
 - Started by GitHub push by **BIGDADDY5802**
 
-![webhook trigger](./screenshots/01-webhook-trigger.png)
+![webhook trigger](./deliverables/01-webhook-trigger.png)
 
 ---
 
 ### ✅ Successful Terraform Deployment via Jenkins
 - Build status: **Finished: SUCCESS**
 
-![terraform success](./screenshots/02-terraform-success.png)
+![terraform success](./deliverables/02-terraform-success.png)
 
-![stage view](./screenshots/03-stage-view.png)
+![stage view](./deliverables/03-stage-view.png)
 
 ---
 
 ### ✅ Theo's Approval
 - Email on file!
 
-![theo approval](./screenshots/04-theo-approval.png)
+![theo approval](./deliverables/04-theo-approval.png)
 
 ---
 
@@ -36,7 +36,7 @@ All evidence files are hosted in a publicly accessible S3 bucket.
 
 ### ✅ S3 Bucket Contents
 
-![bucket files](./screenshots/05-bucket-files.png)
+![bucket files](./deliverables/05-bucket-files.png)
 
 | Deliverable | URL |
 |---|---|
